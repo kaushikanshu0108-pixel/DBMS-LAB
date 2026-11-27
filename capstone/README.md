@@ -2,6 +2,8 @@
 ### Centralized University Placement Management Platform & Relational Database
 **Department of Computer Science & Engineering — B.Tech CSE Project**
 
+Deployment URL: https://smart-college-placement-system-chi.vercel.app/
+
 ---
 
 ## 1. Project Overview & Architecture
